@@ -1,0 +1,5 @@
+{
+  "name": "Raffle Pro 1000",
+  "description": "Una aplicación de rifa premium en tiempo real que permite gestionar y visualizar 1000 boletos con sincronización entre pestañas y un diseño moderno y responsivo.",
+  "requestFramePermissions": []
+}
